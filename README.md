@@ -4,8 +4,9 @@ This repository contains a collection of Jupyter notebooks that demonstrate the 
 
 ## Installation
 
+The project is rewritten in Python 3.10.12, and for the local development, you can create a virtual environment and install the dependencies using the following commands:
+
 ```bash
-# python 3.10.12
 pip install -r requirements.txt
 ```
 
