@@ -3,4 +3,5 @@
 torch
 torchvision
 matplotlib
+transformers
 git+https://github.com/greydanus/mnist1d
